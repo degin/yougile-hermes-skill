@@ -7,8 +7,7 @@
 ## Установка
 
 ```bash
-hermes skills tap add degin/yougile-hermes-skill
-hermes skills install degin/yougile-hermes-skill/yougile-tasks
+hermes skills install degin/yougile-hermes-skill/skills/productivity/yougile-tasks
 ```
 
 Для работы нужен MCP-сервер YouGile, подключённый в Hermes.
